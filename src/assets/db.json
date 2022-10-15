@@ -33,6 +33,20 @@
       "email": "safvan.kp@gadgeon.com",
       "password": "zxcv",
       "id": 14
+    },
+    {
+      "fname": "Chotu",
+      "lname": "saru",
+      "email": "asdf",
+      "password": "asdf",
+      "id": 15
+    },
+    {
+      "fname": "Saranya",
+      "lname": "sidharth",
+      "email": "saru@andi.com",
+      "password": "saru",
+      "id": 26
     }
   ]
 }
